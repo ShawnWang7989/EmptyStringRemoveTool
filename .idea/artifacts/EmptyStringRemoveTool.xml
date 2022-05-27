@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EmptyStringRemoveTool">
+    <output-path>$PROJECT_DIR$/out/artifacts/EmptyStringRemoveTool</output-path>
+    <root id="archive" name="EmptyStringRemoveTool.jar">
+      <element id="archive" name="EmptyStringRemoveTool.jar">
+        <element id="module-output" name="EmptyStringRemoveTool" />
+      </element>
+    </root>
+  </artifact>
+</component>
